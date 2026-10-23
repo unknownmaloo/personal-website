@@ -1,9 +1,9 @@
 // Array of silly ideas
 var ideas = [
-    "A toaster that email u when ur toast is ready. ",
-    "A sound effect player whenever your code has an error. ",
-    "A smart web cam that judges your typing posture. ",
-    "A light strip that flashes red when your computer gets hot. ",
+    "A sound sensor and a speaker work together and whenever someone make noise it plays a loud sound. ",
+    "A sound effect player whenever u cut a phone call. ",
+    "A smart web cam that judges your behaviour. ",
+    "A light strip that flashes red whenever someone els other then u used ur computer ",
 ];
 
 function showSillyIdea() {

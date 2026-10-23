@@ -4,8 +4,8 @@ A minimalist, dark-themed personal website built with HTML, CSS, and Vanilla Jav
 
 ## Features
 * Scroll-triggered section animation.
-* Dynamic header scaling on scroll.
-* Simple interactive idea generator.
+* header scaling on scroll.
+* Silly idea generator.
 * Smooth scroll Back-to-Top button.
 
 ## Tech Stack
