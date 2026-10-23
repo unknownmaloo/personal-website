@@ -1,4 +1,3 @@
-// Array of silly ideas
 var ideas = [
     "A sound sensor and a speaker work together and whenever someone make noise it plays a loud sound. ",
     "A sound effect player whenever u cut a phone call. ",
@@ -7,10 +6,8 @@ var ideas = [
 ];
 
 function showSillyIdea() {
-    // Select a random index from the array
     var randomIndex = Math.floor(Math.random() * ideas.length);
 
-    // Update the HTML text inside the box
     document.getElementById("idea-box").innerText = ideas[randomIndex];
 }
 
